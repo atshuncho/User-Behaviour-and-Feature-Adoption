@@ -41,6 +41,9 @@ Finds users who used a feature within 7 days of joining **and** spent above the 
 ### 12. 7-Day Repeat Feature Usage
 Calculates the percentage of users who reused the same feature within 7 days of first use.
 
+### 13. 30-day churn rate among users who joined in the past 6 months
+Calculates the percentage of users with no transaction activity 30 days after joining.
+
 ---
 
 ## Tables Used
