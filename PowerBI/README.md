@@ -60,7 +60,7 @@ DATEDIFF(
 ```
 
 ### Salary Band Order
-Categorises users into salary bands for grouped analysis in visualizations.
+Categorises users into salary bands for grouped analysis in visualisations.
 ```DAX
 Salary Band Order = 
 SWITCH(
