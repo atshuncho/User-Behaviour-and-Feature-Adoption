@@ -70,5 +70,5 @@ SWITCH(
 ## Technologies
 
 - **SQL** (MySQL-style): Used for querying transactional, user, and support datasets.
-- **Power BI**: Visualizations and interactive dashboards.
+- **Power BI**: Visualisations and interactive dashboards.
 - **GitHub**: Version control and documentation.
