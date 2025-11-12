@@ -1,5 +1,6 @@
 
 # User Behaviour & Engagement Power BI Dashboard
+[Power BI Report](user_behaviour.pbix)
 
 This Power BI report analyses user behaviour, feature adoption, transaction activity, and support ticket trends to provide insights into user engagement and operational performance.
 
